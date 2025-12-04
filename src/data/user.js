@@ -7,10 +7,10 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		cv: "https://drive.google.com/file/d/11YHtsnualxHMuoMva9vzT4RFL17b3XLC/view?usp=drive_link",
+		github: "https://github.com/elgabrielcisneros/elgabrielcisneros",
+		linkedin: "https://www.linkedin.com/in/gabriel-cisneros-3216a12bb",
+		instagram: "https://instagram.com/gabo_cis",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
@@ -35,21 +35,20 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "QR Scanner",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"QR Scanner made with Ionic using the google barcode scanning plugin. This project is based on a project from the Devtalles Ionic Course in Udemy.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/elgabrielcisneros/03-qrscanner",
 		},
 
 		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			title: "wakeupbrah",
+			description: "Alarm app for snoozers made with React Native",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/elgabrielcisneros",
 		},
 
 		{
@@ -58,7 +57,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/elgabrielcisneros",
 		},
 
 		{
@@ -67,7 +66,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/elgabrielcisneros",
 		},
 
 		{
@@ -76,7 +75,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/elgabrielcisneros",
 		},
 	],
 };
