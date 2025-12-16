@@ -8,11 +8,27 @@ import "./styles/works.css";
 const Works = () => {
 	return (
 		<div className="works">
+			
 			<Card
 				icon={faBriefcase}
 				title="Work"
 				body={
+					
 					<div className="works-body">
+						<div className="work">
+							<img
+								src="./contribution.png"
+								alt="work experience"
+								className="work-image"
+							/>
+							<div className="work-title">Mpdf</div>
+							<div className="work-subtitle">
+								Mobile developer (contributor)
+							</div>
+							<div className="work-duration">
+							    november 2025
+							</div>
+						</div>
 						<div className="work">
 							<img
 								src="./building.png"
