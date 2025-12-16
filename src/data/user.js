@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Mobile Front-End Developer 👷",
 		description:
-			"I'm a mobile developer with expertise in Ionic Framework & React Native, & React JS, Angular in web development. I have experience in building scalable, secure and reliable mobile applications using various frameworks and technologies. I enjoy building cool mobile apps that are both functional and visually appealing and i enjoy learning new skills. I am passionate about creating high-quality code that follows best practices. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a mobile developer with expertise in Ionic Framework and React Native, and React JS, Angular in web development. I have experience in building scalable, secure and reliable mobile applications using various frameworks and technologies. I enjoy building cool mobile apps that are both functional and visually appealing and i enjoy learning new skills. I am passionate about creating high-quality code that follows best practices. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
