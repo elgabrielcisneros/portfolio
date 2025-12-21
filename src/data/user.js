@@ -48,7 +48,7 @@ const INFO = {
 			description: "Alarm app for snoozers made with React Native",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros",
+			link: "https://github.com/elgabrielcisneros/wakeupbrah",
 		},
 
 		{
