@@ -7,7 +7,7 @@ const INFO = {
 	},
 
 	socials: {
-		cv: "https://drive.google.com/file/d/11YHtsnualxHMuoMva9vzT4RFL17b3XLC/view?usp=drive_link",
+		cv: "https://drive.google.com/file/d/1C7_OSkxxtJbdz5hT38WvpTYfOh5lN-TM/view?usp=drive_link",
 		github: "https://github.com/elgabrielcisneros/elgabrielcisneros",
 		linkedin: "https://www.linkedin.com/in/gabriel-cisneros-3216a12bb",
 		instagram: "https://instagram.com/gabo_cis",
