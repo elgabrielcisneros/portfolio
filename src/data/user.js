@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "I’m Gabriel Cisneros, i live in Venezuela",
 		description:
-			"I've worked on a variety of projects over the time i have as a software developer and I'm proud of the progress I've made in my craft. Many of these projects are public and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. I'm always open to new ideas and feedback.",
+			"My focus is on building applications that haves an aesthetic UI/UX and works well. I enjoy software development because i like crafting and i like to learn new things. So i always try to make the best of my work & constant learning.",
 	},
 
 	// articles: {
@@ -45,38 +45,20 @@ const INFO = {
 
 		{
 			title: "wakeupbrah",
-			description: "Alarm app for snoozers made with React Native",
+			description: "Alarm app for snoozers made with React Native.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
 			link: "https://github.com/elgabrielcisneros/wakeupbrah",
 		},
 
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
-			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
-			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros",
-		},
+		// {
+		// 	title: "Project 3",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com/elgabrielcisneros",
+		// },
 	],
 };
 
